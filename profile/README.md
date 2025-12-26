@@ -22,9 +22,8 @@ This README provides information about our laboratory in multiple languages. Ple
 
 ## Quick Links
 
-- [Main FlashTorch Project README](../README.md)
-- [FlashTorch English Documentation](../README_EN.md)
-- [FlashTorch Chinese Documentation](../README_CN.md)
+- [English Documentation](../README_EN.md)
+- [Chinese Documentation](../README_CN.md)
 
 ## Contact
 
